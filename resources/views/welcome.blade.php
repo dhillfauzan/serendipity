@@ -940,7 +940,6 @@
                     </div>
                 </div>
 
-                <H1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eum veritatis, vero dolor a quam natus magnam? Cupiditate, repellendus, earum nostrum voluptas, vitae consectetur quo recusandae impedit amet ab nobis doloremque? Consequatur, deleniti necessitatibus nostrum numquam id voluptatem. Libero cumque blanditiis distinctio voluptatum adipisci quia consectetur assumenda, odio ipsum, repudiandae numquam facilis, iste architecto! Itaque animi minus neque commodi consectetur!</H1>
                 <div class="ml-4 text-center text-sm text-gray-500 dark:text-gray-400 sm:text-right sm:ml-0">
                     Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
                 </div>
